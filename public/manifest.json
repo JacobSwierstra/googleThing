@@ -1,0 +1,17 @@
+{
+  "label": "GoogleThing",
+  "isAudioSource": false,
+  "isScreenSaver": false,
+  "isWebApp": true,
+  "requires": [],
+  "version": "0.10.4",
+  "description": "None",
+  "author": "ezSwees",
+  "platforms": [
+    "Windows"
+  ],
+  "homepage": "",
+  "repository": "",
+  "id": "googlething",
+  "template": "full"
+}
